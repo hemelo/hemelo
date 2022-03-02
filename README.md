@@ -37,9 +37,9 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou i
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=9B00E8)
-
-#### Atualmente aprendendo 
-
+![](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=spring&logoColor=white&color=9B00E8)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=9B00E8)
+![](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/Nuxt.Js-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=white&color=9B00E8)
 
 ## 📊 Estatísticas
