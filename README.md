@@ -31,6 +31,7 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou i
 ![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=9B00E8)
+![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/phpMyAdmin-informational?style=for-the-badge&logo=phpmyadmin&logoColor=white&color=9B00E8)
