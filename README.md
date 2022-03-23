@@ -5,39 +5,55 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou i
 - 🔭 Atualmente estou procurando meu primeiro emprego júnior preferencialmente backend
 - 🌱 Atualmente estou aprendendo muitas coisas, entre elas Golang, Kotlin, Clojure e Typescript
 - 👯 Estou procurando colaborar em qualquer projeto, preferencialmente com as tecnologias abaixo
-- 💬 Pergunte-me sobre qualquer coisa, mesmo que tirar dúvidas, gosto de explicar até portugol
+- 💬 Pergunte-me sobre qualquer coisa, ainda que seja para tirar dúvidas, gosto de explicar até portugol
 
 ## 📑 Materiais 
 
 ## 🔎 Tecnologias
 
-![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=git&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Node.Js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Vue.Js-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Tailwind_CSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/phpMyAdmin-informational?style=for-the-badge&logo=phpmyadmin&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=spring&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Nuxt.Js-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=9B00E8)
-![](https://img.shields.io/badge/Clojure-informational?style=for-the-badge&logo=clojure&logoColor=white&color=9B00E8)
+<div> 
+  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+  <img align="center" alt="Kotlin" height="27" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
+  <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
+  <img align="center" alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="nuxt js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+  <img align="center" alt="ruby" height="27" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img align="center" alt="rails" height="27" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+
+</div>
+
+###  UI/UX Designer 
+
+<div>
+  <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
+
+  <img align="center" alt="protoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg">
+</div>
+
+ <h3> Visitantes </h3>  
+
+ <div>
+
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhemelo%2Fhemelo&label=Visitantes&countColor=%23ba68c8)
+
+ </div>  
 
 ## 📊 Estatísticas
 
