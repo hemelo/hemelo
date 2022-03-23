@@ -2,16 +2,10 @@
 
 Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira de desenvolvedor de sistemas, focado em aplicações Web. Você pode me achar também no [![LinkedIn][3.2]][3.1] ou no [![Twitter][2.2]][2.1].
 
-- Apreciador médio de Open Source
-- Disponível pra ajudar/colaborar em Projetos
-
-#### Tópicos para Conversa
-
-1. Carreira Dev 
-2. Design de aplicativos e sites modernos
-3. Metodologia de estudo e programação
-4. Transtornos da saúde mental (tenho TDAH)
-5. Música
+- 🔭 Atualmente estou procurando meu primeiro emprego júnior preferencialmente backend
+- 🌱 Atualmente estou aprendendo muitas coisas, entre elas Golang, Kotlin, Clojure e Typescript
+- 👯 Estou procurando colaborar em qualquer projeto, preferencialmente com as tecnologias abaixo
+- 💬 Pergunte-me sobre qualquer coisa, mesmo que tirar dúvidas, gosto de explicar até portugol
 
 ## 📑 Materiais 
 
@@ -42,27 +36,13 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou i
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=9B00E8)
 ![](https://img.shields.io/badge/Nuxt.Js-informational?style=for-the-badge&logo=nuxtdotjs&logoColor=white&color=9B00E8)
+![](https://img.shields.io/badge/Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=9B00E8)
+![](https://img.shields.io/badge/Clojure-informational?style=for-the-badge&logo=clojure&logoColor=white&color=9B00E8)
 
 ## 📊 Estatísticas
 
 ![RM GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemelo&count_private=true&line_height=27&theme=synthwave&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemelo&theme=synthwave&langs_count=3)
-
-<!--
-**hemelo/hemelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 [2.1]: https://twitter.com/
 [2.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
