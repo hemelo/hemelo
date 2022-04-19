@@ -2,8 +2,8 @@
 
 Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira de desenvolvedor de sistemas, focado em aplicações Web. Você pode me achar também no [![LinkedIn][3.2]][3.1] ou no [![Twitter][2.2]][2.1].
 
-- 🔭 Atualmente estou procurando meu primeiro emprego júnior preferencialmente backend
-- 🌱 Atualmente estou aprendendo muitas coisas, entre elas Golang, Kotlin, Clojure e Typescript
+- 🔭 Atualmente estou aberto a trabalhos como Desenvolvedor FullStack
+- 🌱 Atualmente estou aprendendo muitas coisas, entre elas Golang e Clojure
 - 👯 Estou procurando colaborar em qualquer projeto, preferencialmente com as tecnologias abaixo
 - 💬 Pergunte-me sobre qualquer coisa, ainda que seja para tirar dúvidas, gosto de explicar até portugol
 
@@ -34,8 +34,6 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou i
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="nuxt js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-  <img align="center" alt="ruby" height="27" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="rails" height="27" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 
 </div>
 
