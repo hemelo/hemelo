@@ -1,6 +1,6 @@
-# Salve 👋
+# Henrique Melo 👋
 
-Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira de desenvolvedor de sistemas, focado em aplicações Web. Você pode me achar também no [![LinkedIn][3.2]][3.1] ou no [![Twitter][2.2]][2.1].
+Eu sou **Henrique Melo**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira como Desenvolvedor Fullstack. Você pode me achar também no [![LinkedIn][3.2]][3.1] ou no [![Twitter][2.2]][2.1]
 
 - 🔭 Atualmente estou aberto a trabalhos como Desenvolvedor FullStack
 - 🌱 Atualmente estou aprendendo muitas coisas, entre elas Golang e Clojure
