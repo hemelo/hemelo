@@ -9,6 +9,9 @@ Eu sou **Henrique Melo**, brasileiro, ex-coltecano, tenho 18 anos e estou inicia
 
 ## 📑 Materiais 
 
+Eu uso [esse repositório](https://github.com/hemelo/anotacoes) para salvar meus estudos teóricos e guias de conteúdos que envolvem muito terminal 
+
+
 ## 🔎 Tecnologias
 
 <div> 
