@@ -1,4 +1,4 @@
-# Oi tudo bem?👋
+# Olá, tudo bem?👋
 
 Eu sou **Henrique Melo**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira como Desenvolvedor Fullstack. Você pode me achar também no [![LinkedIn][3.2]][3.1] ou no [![Twitter][2.2]][2.1]
 
