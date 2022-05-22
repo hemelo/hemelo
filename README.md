@@ -1,6 +1,6 @@
 # Olá, tudo bem?👋
 
-Eu sou **Henrique Melo**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira como Desenvolvedor Fullstack. Você pode me achar também no [![LinkedIn][3.2]][3.1] ou no [![Twitter][2.2]][2.1]
+Eu sou **Henrique Melo**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira como Desenvolvedor Fullstack. Você pode me achar também no [![LinkedIn][3.2]][3.1]
 
 - 🔭 Atualmente estou aberto a trabalhos como Desenvolvedor FullStack
 - 🌱 Atualmente estou aprendendo muitas coisas, entre elas Golang e Clojure
@@ -95,7 +95,5 @@ Eu uso [esse repositório](https://github.com/hemelo/anotacoes) para salvar meus
 ![RM GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemelo&count_private=true&line_height=27&theme=synthwave&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemelo&theme=synthwave&langs_count=3)
 
-[2.1]: https://twitter.com/
-[2.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.1]: https://www.linkedin.com/in/hmelo2509/
+[3.1]: [https://www.linkedin.com/in/hmelo2509/](https://www.linkedin.com/in/henrique-melo2509/)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
