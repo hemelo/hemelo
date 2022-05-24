@@ -10,9 +10,7 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou i
 
 ## 🔮 Conhecimentos
 
-- Desenvolvimento Web
-- Desenvolvimento Front-end
-- Desenvolvimento Back-end
+- Desenvolvimento Web FullStack
 - Banco de dados relacional e não-relacional
 - Object-Relational Mapping (ORM)
 - API REST
