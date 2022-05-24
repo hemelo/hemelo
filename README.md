@@ -13,7 +13,7 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou i
 - Desenvolvimento Web FullStack
 - Banco de dados relacional e não-relacional
 - Object-Relational Mapping (ORM)
-- API REST
+- Consumo e criação de API REST
 - Test Driven Development (TDD)
 - Behavior Driven Development (TDD)
 - Arquiteturas de projeto
