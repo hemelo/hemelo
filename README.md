@@ -1,16 +1,35 @@
-# Olá, tudo bem?👋
+# Olá, me chamo Henrique Fernandes👋
 
-Eu sou **Henrique Melo**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira como Desenvolvedor Fullstack. Você pode me achar também no [![LinkedIn][3.2]][3.1]
+Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira como Desenvolvedor Fullstack. Você pode me achar também no [![LinkedIn][3.2]][3.1]
 
-- 🔭 Atualmente estou aberto a trabalhos como Desenvolvedor FullStack
-- 🌱 Atualmente estou aprendendo muitas coisas, entre elas Golang e Clojure
-- 👯 Estou procurando colaborar em qualquer projeto, preferencialmente com as tecnologias abaixo
+- 🔭 Atualmente não estou trabalhando
+- 🌱 Atualmente estou aprendendo Cloud (AWS & Azure). Em busca pelos certificados!
+- 👯 Estou procurando colaborar em projetos open source
 - 💬 Pergunte-me sobre qualquer coisa, ainda que seja para tirar dúvidas, gosto de explicar até portugol
+- 📫 Como entrar em contato comigo: [Email](mailto:hmelo2509@gmail.com) ou diretamente pelo [Linkedin](https://www.linkedin.com/in/hmelo2509/)
+
+## 🔮 Conhecimentos
+
+- Desenvolvimento Web
+- Desenvolvimento Front-end
+- Desenvolvimento Back-end
+- Banco de dados relacional e não-relacional
+- Object-Relational Mapping (ORM)
+- API REST
+- Test Driven Development (TDD)
+- Behavior Driven Development (TDD)
+- Arquiteturas de projeto
+- Domain Driven Design (DDD)
+- Programação orientada a objetos
+- Design Patterns
+- Virtualização, provisionamento e containerização
+- Infra como código (IaC)
+- Pipeline CI/CD
+- Implantação Cloud
 
 ## 📑 Materiais 
 
-Eu uso [esse repositório](https://github.com/hemelo/anotacoes) para salvar meus estudos teóricos e guias de conteúdos que envolvem muito terminal 
-
+Eu uso [esse repositório](https://github.com/hemelo/anotacoes) para salvar meus estudos teóricos e revisões de conteúdos que envolvem complexidade, shell script, etc...
 
 ## 🔎 Tecnologias
 
@@ -33,13 +52,11 @@ Eu uso [esse repositório](https://github.com/hemelo/anotacoes) para salvar meus
 
 <div> 
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Clojure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
   <img align="center" alt="Go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Kotlin" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
+  <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Wordpress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
 
 ### Front-end
@@ -73,10 +90,18 @@ Eu uso [esse repositório](https://github.com/hemelo/anotacoes) para salvar meus
   <img alt="jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img alt="terraform" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img alt="grafana" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-  <img alt="" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img alt="gitlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img alt="kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
 
-###  UI/UX Designer 
+### Estou aprendendo
+
+<div>
+  <img align="center" alt="Clojure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
+  <img align="center" alt="Cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</div> 
+
+### UI/UX Designer 
 
 <div>
   <img align="center" alt="figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
@@ -84,16 +109,16 @@ Eu uso [esse repositório](https://github.com/hemelo/anotacoes) para salvar meus
   <img align="center" alt="protoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg">
 </div>
 
+## ✨ Certificados 
+
+Você pode encontrar todos os meus certificados no [Linkedin](https://www.linkedin.com/in/henrique-melo2509/#licenses_and_certifications) e os da [Alura aqui](https://cursos.alura.com.br/user/hmelo2509/fullCertificate/03b702831d58f6fbf691a6bddc2630d4)
+
 ## 📊 Estatísticas
 
 <div>
-  
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhemelo%2Fhemelo&label=Visitantes&countColor=%23ba68c8)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemelo&count_private=true&theme=synthwave&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemelo&layout=compact&theme=synthwave&langs_count=8">
 </div>
-
-![RM GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemelo&count_private=true&line_height=27&theme=synthwave&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemelo&theme=synthwave&langs_count=3)
 
 [3.1]: [https://www.linkedin.com/in/hmelo2509/](https://www.linkedin.com/in/henrique-melo2509/)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
