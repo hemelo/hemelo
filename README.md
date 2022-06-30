@@ -1,8 +1,7 @@
 # Olá, me chamo Henrique Fernandes👋
 
-Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou iniciando na carreira como Desenvolvedor Fullstack. Você pode me achar também no [![LinkedIn][3.2]][3.1]
+Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e sou Desenvolvedor Fullstack.
 
-- 🔭 Atualmente não estou trabalhando
 - 🌱 Atualmente estou aprendendo Cloud (AWS & Azure). Em busca pelos certificados!
 - 👯 Estou procurando colaborar em projetos open source
 - 💬 Pergunte-me sobre qualquer coisa, ainda que seja para tirar dúvidas, gosto de explicar até portugol
@@ -11,7 +10,6 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e estou i
 ## 🔮 Conhecimentos, Tecnologias e Projetos
 
 Você encontra tudo isso de maneira organizada em meu portfolio :) &#8594; https://portfolio-hemelo.vercel.app/ 
-
 
 ## 📑 Materiais 
 
