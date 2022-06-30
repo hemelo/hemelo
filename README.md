@@ -9,7 +9,7 @@ Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e sou Des
 
 ## 🔮 Conhecimentos, Tecnologias e Projetos
 
-Você encontra tudo isso de maneira organizada em meu portfolio :) &#8594; https://portfolio-hemelo.vercel.app/ 
+Você encontra tudo isso em meu portfolio :) &#8594; https://portfolio-hemelo.vercel.app/ 
 
 ## 📑 Materiais 
 
