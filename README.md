@@ -1,26 +1,18 @@
-# Olá, me chamo Henrique Fernandes👋
+### Hi folks, I'm Henrique 😁
 
-Eu sou **Henrique Fernandes**, brasileiro, ex-coltecano, tenho 18 anos e sou Desenvolvedor Fullstack.
+My name is Henrique Melo, and I am from Brazil. I am now 19 years old and have been coding for 5 years. Additionally, I have one year of professional experience in fullstack software development, I am also currently pursuing a degree in Software Engineering at FIAP.
 
-- 🌱 Atualmente estou aprendendo Cloud (AWS & Azure). Em busca pelos certificados!
-- 👯 Estou procurando colaborar em projetos open source
-- 💬 Pergunte-me sobre qualquer coisa, ainda que seja para tirar dúvidas, gosto de explicar até portugol
-- 📫 Como entrar em contato comigo: [Email](mailto:hmelo2509@gmail.com) ou diretamente pelo [Linkedin](https://www.linkedin.com/in/hmelo2509/)
+My main interests right now are cloud computing, IaS, distributed systems, security, criptography and payment solutions.
 
-## 🔮 Conhecimentos, Tecnologias e Projetos
 
-Você encontra tudo isso em meu portfolio :) &#8594; https://portfolio-hemelo.vercel.app/ 
+#### Contact
 
-## 📑 Materiais 
+If you have a mutual interest to discuss or if you would like to present a business proposal, you can easily reach me via email:
 
-Eu uso [esse repositório](https://github.com/hemelo/anotacoes) para salvar meus estudos teóricos e revisões de conteúdos que envolvem complexidade, shell script, etc...
-
-## 📊 Estatísticas
-
+```cpp
+#define email "hemelo@hemelo.tech"
+```
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemelo&count_private=true&theme=synthwave&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemelo&layout=compact&theme=synthwave&langs_count=8">
 </div>
-
-[3.1]: [https://www.linkedin.com/in/hmelo2509/](https://www.linkedin.com/in/henrique-melo2509/)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
