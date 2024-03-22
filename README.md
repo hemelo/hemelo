@@ -1,80 +1,98 @@
-<h1 align="center">Hey there! I'm Henrique Melo 👋 </h1>
-<h3 align="center">🚀 Software engineer | Fullstack developer | Devops | Linux enthusiast ♥ 🚀</h3>
-<div>
-<img  align="right" alt="Hacking Peep" width = "35%" height="250px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F954101135156565426%2F21D9841F8E03ED30D91A7720388E1E8D3A464FC0%2F&f=1&nofb=1&ipt=86d08f92291579d3548e39ff14ebc0ac911c1d92f3fffb9838ac367136082bf2&ipo=images" />
-<div align="left"> 
-  <h3> 🕵️ About Me </h3>
+<h1 align="center">Hey there! I'm Henri 👋 </h1>
+<h3 align="center">🔮 Software engineer | Linux enthusiast 🪀 </h3>
 
-  - ✨ &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Software Engineering.
-  - 💼 &nbsp; I’m currently working on Fullstack Development projects.
-  - 🌱 &nbsp; Learning more about Cybersecurity and Forensics. 
-  - ✍️ &nbsp; Pursuing Competitive Programming and Ethical Hacking as hobbies.  
+<div>
+  <div> 
+    <h3> 🕵️ I'm currently </h3>
+    <ul>
+      <li>✨ Exploring new technologies and developing software solutions and quick hacks.</li>
+      <li>🎓 Studying Software Engineering at FIAP (3/8).</li>
+      <li>💼 I’m currently working on Desktop App projects.</li>
+      <li>🌱 Learning more about Blockchain and Web3.</li>
+      <li>✍️ Pursuing Competitive Programming and Ethical Hacking as hobbies.</li>
+    </ul>
+  </div> 
+
+  <div>
+    <h4> Contact </h4>
+    <p>
+      <a href="mailto:hemelo@pm.me" target="_blank">
+        <img src="https://img.shields.io/badge/hemelo@pm.me-FFFFFF?style=flat-square&logo=gmail&logoColor=black" />
+      </a>
+      <a href="https://www.linkedin.com/in/henriquefcmelo/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+    </p>
+  </div>
+</div>
+
+<h2> 💻 Technologies</h2>
+
+<div>
+  <h4> Languages </h4>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  </p>
+</div>
+<div>
+  <h4> Backend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  </p>
+</div>
+<div>
+  <h4> Frontend </h4>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+  <p>
 </div> 
-</div>
 
 <div>
-  <h3> 💻 Languages & Frameworks </h3>
+  <h4> Databases </h4>
   <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <p>
-</div> 
-
-<div>
-  <h3> 🎲 Databases </h3>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
   </p>
 </div>
 
 <div>
-  <h3> 🛠️ DevOps & Tools </h3>
+  <h4> DevOps & Tools </h4>
   <p>
-    <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-D9281A?style=flat-square&logo=redis&logoColor=white">
   </p>
 </div>
 
 <div>
-  <h3> 📝 Text Editors & IDEs </h3>
+  <h4> Text Editors & IDEs </h4>
   <p>
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
-    <img src="https://img.shields.io/badge/IntelliJ_Ultimate-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
-    <img src="https://img.shields.io/badge/VsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white" />
+    <img src="https://img.shields.io/badge/IntelliJ_Ultimate-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
+    <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PHPStorm-181717?style=flat-square&logo=phpstorm&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white" />
+    <img src="https://img.shields.io/badge/VsCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   </p>
 </div>
 
-<hr />
-
 <div>
-  <h3> Contact </h3>
-
+  <h4> Systems </h4>
   <p>
-    <a href="mailto:hmelo2509@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
-    </a>
-    <a href="https://www.linkedin.com/in/henriquefcmelo/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/Windows-3471eb?style=flat-square&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Arch%20Linux-34b1eb?style=flat-square&logo=arch-linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu%20Server-D9281A?style=flat-square&logo=ubuntu&logoColor=white">
   </p>
 </div>
 
