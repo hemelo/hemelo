@@ -69,7 +69,7 @@ I'm Henrique Melo and I go by `hemelo` online in most places.
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Telling%20a%20developer%20there%20is%20a%20library%20that%20already%20makes%20something%20is%20like%20telling%20a%20songwriter%20there%20is%20already%20a%20song%20about%20love)](https://github.com/piyushsuthar/github-readme-quotes)
 
   <p>
-    <a href="https://wakatime.com/@hemelo">Wakatime</a> | <a href="https://www.hackerrank.com/hmelo2509">Hackerrank</a> | <a href="https://www.codewars.com/users/hemelo">Codewars</a>
+    <a href="https://www.hackerrank.com/hmelo2509">Hackerrank</a> | <a href="https://www.codewars.com/users/hemelo">Codewars</a>
   </p>
   
 </div>
