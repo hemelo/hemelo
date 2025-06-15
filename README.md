@@ -35,7 +35,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/hemelo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hemelo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hemelo&layout=compact&langs_count=8&theme=algolia"/>
   </a>
@@ -44,7 +44,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div align="center">
-   <a href="https://linkedin.com/in/henriquefcmelo"><img src="https://img.shields.io/badge/-hemelo-05122A?style=for-the-badge&logo=discord&logoColor=235865F2"/></a>
+   <a href=""><img src="https://img.shields.io/badge/-hemelodev-05122A?style=for-the-badge&logo=discord&logoColor=235865F2"/></a>
   <a href="https://linkedin.com/in/henriquefcmelo"><img src="https://img.shields.io/badge/-Henrique%20Melo-05122A?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
   <a href="mailto:hemelo@pm.me"><img src="https://img.shields.io/badge/-hemelo@pm.me-05122A?style=for-the-badge&logo=protonmail&logoColor=8B89CC"/></a>
 </div>
