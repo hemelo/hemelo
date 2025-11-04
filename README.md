@@ -48,8 +48,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div align="center">
-   <a href=""><img src="https://img.shields.io/badge/-hemelodev-05122A?style=for-the-badge&logo=discord&logoColor=235865F2"/></a>
   <a href="https://linkedin.com/in/henriquefcmelo"><img src="https://img.shields.io/badge/-Henrique%20Melo-05122A?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-  <a href="mailto:hemelo@pm.me"><img src="https://img.shields.io/badge/-hemelo@pm.me-05122A?style=for-the-badge&logo=protonmail&logoColor=8B89CC"/></a>
+  <a href="mailto:hemelo@proton.me"><img src="https://img.shields.io/badge/-hemelo@proton.me-05122A?style=for-the-badge&logo=protonmail&logoColor=8B89CC"/></a>
 </div>
 
