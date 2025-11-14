@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I read manuals and technical books and get to master my skills on Linux and programming.\
 💬 &nbsp;Feel free to reach out for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at hemelo@pm.me! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at hemelo@proton.me! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
